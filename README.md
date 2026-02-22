@@ -8,7 +8,12 @@ The code is designed to be smooth and efficient, featuring an exponential moving
 
 *A video of the project in action!*
 
-[Link to your demonstration video here](https://www.youtube.com/)
+![IMG_6887](https://github.com/user-attachments/assets/605581e3-3e19-46f8-82ee-ec08bfbc1e64)
+
+
+https://github.com/user-attachments/assets/a500732a-1026-4e8d-a3b3-77a927c325a5
+
+
 
 ## Hardware List
 
